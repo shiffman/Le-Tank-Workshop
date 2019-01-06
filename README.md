@@ -19,3 +19,4 @@ Links for Le Tank Workshop
 * [Webcam Pacman](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html) (from tfjs-examples)
 * [Pong-ML](https://github.com/matamalaortiz/Pong-ML) - Alejandro Matamala ([@matamalaortiz](https://github.com/matamalaortiz) on Github)
 * [How to build a Teachable Machine with TensorFlow.js](https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) - Nikhil Thorat ([@nsthorat](https://github.com/nsthorat) on Github)
+* [DoodleClassifier](https://ml4a.github.io/guides/DoodleClassifier/) - 

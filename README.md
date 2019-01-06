@@ -8,3 +8,4 @@ Links for Le Tank Workshop
 * [KNN PoseNet Example](https://editor.p5js.org/ml5/sketches/HkmmE7kM4)
 * [Tensorflow JS](https://js.tensorflow.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* [Machine Learning for the Web - Yining Shi (yining1023)](https://github.com/yining1023/machine-learning-for-the-web)

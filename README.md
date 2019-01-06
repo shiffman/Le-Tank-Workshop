@@ -7,5 +7,8 @@ Links for Le Tank Workshop
 * [KNN Image Example](https://editor.p5js.org/ml5/sketches/Hkgk85CbE)
 * [KNN PoseNet Example](https://editor.p5js.org/ml5/sketches/HkmmE7kM4)
 * [Tensorflow JS](https://js.tensorflow.org/)
+* [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
 * [Machine Learning for the Web - Yining Shi (yining1023)](https://github.com/yining1023/machine-learning-for-the-web)
+* [Examples built with TensorFlow.js](https://github.com/tensorflow/tfjs-examples)
+* [Webcam Pacman](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)

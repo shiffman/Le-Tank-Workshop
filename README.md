@@ -7,7 +7,7 @@ Links for Le Tank Workshop
 * [KNN Image Example](https://editor.p5js.org/ml5/sketches/Hkgk85CbE)
 * [KNN PoseNet Example](https://editor.p5js.org/ml5/sketches/HkmmE7kM4)
 
-* [Work-in-progress sketch](https://editor.p5js.org/codingtrain/sketches/S1XJP_Jf4)
+* [Final Sketch Example](https://editor.p5js.org/codingtrain/sketches/S1XJP_Jf4) - The final sketch created during the live stream.
 
 ## Reference links
 

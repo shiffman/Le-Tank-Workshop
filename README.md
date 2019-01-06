@@ -6,6 +6,11 @@ Links for Le Tank Workshop
 * [Web Editor Template](https://editor.p5js.org/codingtrain/sketches/B1ZSZP1M4)
 * [KNN Image Example](https://editor.p5js.org/ml5/sketches/Hkgk85CbE)
 * [KNN PoseNet Example](https://editor.p5js.org/ml5/sketches/HkmmE7kM4)
+
+* [Work-in-progress sketch](https://editor.p5js.org/codingtrain/sketches/S1XJP_Jf4)
+
+## Reference links
+
 * [Tensorflow JS](https://js.tensorflow.org/)
 * [ml5js](https://ml5js.org/)
 * [Teachable Machine](https://teachablemachine.withgoogle.com/)
